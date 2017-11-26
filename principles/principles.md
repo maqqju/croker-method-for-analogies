@@ -1,4 +1,4 @@
-## Basic Principles
+# Basic Principles
 
 The Croker Method uses mainly 3 principles:
 
