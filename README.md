@@ -1,6 +1,11 @@
 # Croker Method for Harnessing Analogies
 tl;dr : A methodology to harness the power of analogies, making them work for you.
 
+## Introduction
+Knowledge transfer is perhaps one of the cornerstones of our society and an important activity to our economic growth. This, however, poses several challenges especially when one is trying to explain new or challenging knowledge elements.
+
+Analogies are a very useful tool to facilitate knowledge transfer, but coming up with the right analogy requires skill. The ``Croker Method for Harnessing Analogies`` is an easy and useful process/tool for knowledge transfer.
+
 ## Table of Contents
 1. [Motivation](/motivation/motivation.md)
 2. [Basic Principles](/principles/principles.md)
