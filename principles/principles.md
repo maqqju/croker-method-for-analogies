@@ -2,7 +2,7 @@
 
 The Croker Method uses mainly 3 principles:
 
-1. **Contexts:** It is not only contexts that knowledge workers find themselves trying to explain. There could be instances when knowledge workers need to explain processes, ideas, algorithms, and literally any piece of knowledge. In the ``Croker Method`` these are all called *contexts*. A context is a grouping of similar situations. 
+1. **Contexts:** It is not only concepts that knowledge workers find themselves trying to explain. There could be instances when knowledge workers need to explain processes, ideas, algorithms, and literally any piece of knowledge. In the ``Croker Method`` these are all called *contexts*. A context is a grouping of similar situations. 
 
     Think of the famous phrase *"All animals are equal but some are more equal than others."* There are many animals in the world, but clearly we can draw connective lines between some of them to group them in a particular category. For example, should we have a ``cat``, a ``hen`` and a ``tiger``, we can draw a line between the ``cat`` and the ``tiger`` in a category we can call ``feline animals``. Similarly, however, we can also draw a line joining ``cat`` with ``hen`` in a category we will call ``farm animals``. Both are very valid connections. In the ``Croker Method`` we call these groupings and categories as ``contexts``.
 
