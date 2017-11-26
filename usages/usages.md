@@ -1,4 +1,4 @@
-#Usages
+# Usages
 
 There are 2 ways in which the ``Croker Method`` can be used:
 

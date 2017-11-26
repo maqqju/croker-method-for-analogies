@@ -1,4 +1,4 @@
-#Motivation
+# Motivation
 In knowledge work one often finds themselves struggling in one of the following two situations:
   * Trying to explain a difficult, perhaps complex, concept
   * Trying to come up with new ideas on how to add some extra spice to something which is well established.
