@@ -13,8 +13,14 @@
 ![Draw a parlalel context][3]
 
 ## Step 4 - Scale up or down
+
+Scale the order of magnitude either in the parallel context (e.g. ``Context 2``)...
 ![Scale up or down - Either in the parallel context][4]
+
+... or in the original context (e.g. ``Context 1``).
 ![Scale up or down - Or in the original context][5]
+
+Similarly, you can scale low.
 ![Scale up or down - scaling low][6]
 
 [1]:axis-1.png
