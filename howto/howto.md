@@ -12,7 +12,7 @@
 ## Step 3 - Draw a parallel context
 ![Draw a parlalel context][3]
 
-## Step 4 - Scale up/down
+## Step 4 - Scale up or down
 ![Scale up/down - Either in the parallel context][4]
 ![Scale up/down - Or in the original context][5]
 ![Scale up/down - scaling low][6]
