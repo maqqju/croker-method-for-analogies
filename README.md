@@ -8,7 +8,7 @@ In knowledge work one often finds themselves struggling in one of the following 
 These are two natural side-effects of knowledge work, as great ideas are sometimes hard to explain or to top up. That is when, more often than not, people resort to *analogies*.
 
 **Definition 1** Analogy (*noun*), *a comparison of one thing with another thing that has similar features; a feature that is similar*.
-**Definition 2** Analogy (*noun*), *the **process** of comparing one thing with another thing that has similar features in order to **explain it** *.
+**Definition 2** Analogy (*noun*), *the **process** of comparing one thing with another thing that has similar features in order to **explain it***.
 
 
 ## Basic Principles
