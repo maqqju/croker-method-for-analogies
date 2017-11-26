@@ -13,9 +13,9 @@
 ![Draw a parlalel context][3]
 
 ## Step 4 - Scale up or down
-![Scale up/down - Either in the parallel context][4]
-![Scale up/down - Or in the original context][5]
-![Scale up/down - scaling low][6]
+![Scale up or down - Either in the parallel context][4]
+![Scale up or down - Or in the original context][5]
+![Scale up or down - scaling low][6]
 
 [1]:axis-1.png
 [2]:axis-2-features.png
