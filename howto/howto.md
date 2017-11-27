@@ -8,11 +8,13 @@ The very first thing you need to do to use the ``Croker Method`` is to draw the 
 
 1. **Find a clear space** where you can jolt down words and ideas. Make sure you have plenty of place as in the ``Croker Method`` ideas can run like wildfire.
 2. **Draw a vertical line** with arrows at both tips. This is the line which will define *orders of magnitude* for contexts.
+3. **Draw a horizontal line** this time without any arrows. Make it nice and wide, allowing you to experiment with as many analogies as you want.
 
-    *Question* Are the arrows necessary? The arrows are there to mainly remind you the function of the vertical line. Context instances written on top are considered to be of a higher order than those written lower down.
-![Draw the axis][0]
+    ![Draw the axis][0]
 
-## Step 2 - Place your current context in the middle of the axis
+_*Question* Are the arrows necessary in the vertical axis?_ The arrows are there to mainly remind you the function of the vertical line. Context instances written on top are considered to be of a higher order than those written lower down.
+
+## Step 2 - Place your starting context-instance in the middle of the axis
 
 Whenever using analogies we can safely say that there are two main components:
 
