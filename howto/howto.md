@@ -12,23 +12,35 @@ The very first thing you need to do to use the ``Croker Method`` is to draw the 
 
     ![Draw the axis][0]
 
-_*Question* Are the arrows necessary in the vertical axis?_ The arrows are there to mainly remind you the function of the vertical line. Context instances written on top are considered to be of a higher order than those written lower down.
+**Note** Are the arrows necessary in the vertical axis? The arrows are there to mainly remind you the function of the vertical line. Context instances written on top are considered to be of a higher order than those written lower down.
 
 ## Step 2 - Place your starting context-instance in the middle of the axis
 
-Whenever using analogies we can safely say that there are two main components:
+Whenever using analogies we can safely say that there are, at least, two main *context-instances*:
 
   * The **subject** which we want to explain
   * The **analogy** which we're using the explain the subject.
 
-Despite the fact that both the subject and the analogy are called ``contexts`` in the ``Croker Method``, *the subject* is the *starting point* of the exercise. This holds for both cases discussed in [Usages](/usages/usages.md).
+Despite the fact that both the subject and the analogy are called *context-instances* in the ``Croker Method``, *the subject* is the *starting point* of the exercise. This holds for both cases discussed in [Usages](/usages/usages.md).
 
 As a starting point, therefore, *we place the subject in the middle* of the axis.
 
+Write the starting point in the middle of the axis. This will also help you remember where you started from.
+
 ![Draw the axis and place your current context in the middle][1]
 
-## Step 3 - Break down your current context into features
+**Note** In the images within this guide we will see that context-instances will be written in bold and underline, similar to a header within an article. The most important thing is that you adopt a convension which will help you differentiate the name of the context-instace from its features.
+
+## Step 3 - Break down the context-instance into features
+
+The next thing you need to do is to start breaking your context-instance into *features*. Features are attributes of your context-instance which will be the key elements in your quest of finding an appropriate analogy to your subject. Think of a feature as the key attributes binding your context-instance to its context. These will be different with every context.
+
+For instance, a ``cat`` under the context ``Farm Animals`` can have features like *good hunter*,*works behind the scenes*,*clears unwanted guests*. In another context, say ``Feline Animals``, however, a ``cat`` can have features like *small*,*domestic*,*independent* and so on.
+
+
 ![Break down your current context into features][2]
+
+**Note** A tip from the author: do not limit yourself when writing features. It is easier to clean up extra features than to come up with good ones. Instead, try to beat features with even better ones.
 
 ## Step 4 - Draw a parallel context
 ![Draw a parlalel context][3]
