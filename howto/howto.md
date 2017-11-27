@@ -4,6 +4,12 @@
 
 ## Step 1 - Draw the axis
 
+The very first thing you need to do to use the ``Croker Method`` is to draw the axis which will essentially be the space holding your ideas.
+
+1. **Find a clear space** where you can jolt down words and ideas. Make sure you have plenty of place as in the ``Croker Method`` ideas can run like wildfire.
+2. **Draw a vertical line** with arrows at both tips. This is the line which will define *orders of magnitude* for contexts.
+
+    *Question* Are the arrows necessary? The arrows are there to mainly remind you the function of the vertical line. Context instances written on top are considered to be of a higher order than those written lower down.
 ![Draw the axis][0]
 
 ## Step 2 - Place your current context in the middle of the axis
