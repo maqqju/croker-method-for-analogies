@@ -12,7 +12,7 @@ The very first thing you need to do to use the ``Croker Method`` is to draw the 
 
     ![Draw the axis][0]
 
-**Note** Are the arrows necessary in the vertical axis? The arrows are there to mainly remind you the function of the vertical line. Context instances written on top are considered to be of a higher order than those written lower down.
+**Note:** Are the arrows necessary in the vertical axis? The arrows are there to mainly remind you the function of the vertical line. Context instances written on top are considered to be of a higher order than those written lower down.
 
 ## Step 2 - Place your starting context-instance in the middle of the axis
 
@@ -29,7 +29,7 @@ Write the starting point in the middle of the axis. This will also help you reme
 
 ![Draw the axis and place your current context in the middle][1]
 
-**Note** In the images within this guide we will see that context-instances will be written in bold and underline, similar to a header within an article. The most important thing is that you adopt a convension which will help you differentiate the name of the context-instace from its features.
+**Note:** In the images within this guide we will see that context-instances will be written in bold and underline, similar to a header within an article. The most important thing is that you adopt a convension which will help you differentiate the name of the context-instace from its features.
 
 ## Step 3 - Break down the context-instance into features
 
@@ -40,10 +40,23 @@ For instance, a ``cat`` under the context ``Farm Animals`` can have features lik
 
 ![Break down your current context into features][2]
 
-**Note** A tip from the author: do not limit yourself when writing features. It is easier to clean up extra features than to come up with good ones. Instead, try to beat features with even better ones.
+**Note:** A tip from the author: do not limit yourself when writing features. It is easier to clean up extra features than to come up with good ones. Instead, try to beat features with even better ones.
 
 ## Step 4 - Draw a parallel context
-![Draw a parlalel context][3]
+
+Now that you have named your context-instance and justified why and how it pertains to its context, you are ready to start experimenting with analogies (a.k.a. parlallel contexts).
+
+Go to the left or to the right of your original context axis, and draw another vertical line. Write the name of the first context-instance in-line with the subject. This will be your first analogy. Beneath the context-instance name write down those features which it shares with the subject. This will help you justify *why* it is being considered as a potential analogy to your subject.
+
+It could be the case that the parallel context-instance does not inherit all of the features from the subject. That's usually fine as, afterall, analogies don't make the two context-instances equal.
+
+Finally, feel free to add any features that you did not list down in the subject. This could be the first step in refining your ideas and choose the right analogy.
+
+![Draw a parallel context][3]
+
+**Note:** In the image above the parallel context was drawn as a dotted line. It is purely up to you how to represent it. Likewise, note that no arrows have been drawn this time. Remember that the arrows were initially drawn in the original context to remind you of the up/down function in the ``Croker Method``. A pair is more than enough :). 
+
+**Note:** In the image above the parallel context was drawn *on the left hand side* of the original context. This is completely up to you.
 
 ## Step 5 - Scale up or down
 
