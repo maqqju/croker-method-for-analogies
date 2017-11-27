@@ -2,17 +2,30 @@
 
 ****Important**** before you start please make sure to have read the [Basic Principles](/principles/principles.md).
 
-## Step 1 - Place your current context in the middle of the axis
+## Step 1 - Draw the axis
+
+![Draw the axis][0]
+
+## Step 2 - Place your current context in the middle of the axis
+
+Whenever using analogies we can safely say that there are two main components:
+
+  * The **subject** which we want to explain
+  * The **analogy** which we're using the explain the subject.
+
+Despite the fact that both the subject and the analogy are called ``contexts`` in the ``Croker Method``, *the subject* is the *starting point* of the exercise. This holds for both cases discussed in [Usages](/usages/usages.md).
+
+As a starting point, therefore, *we place the subject in the middle* of the axis.
 
 ![Draw the axis and place your current context in the middle][1]
 
-## Step 2 - Break down your current context into features
+## Step 3 - Break down your current context into features
 ![Break down your current context into features][2]
 
-## Step 3 - Draw a parallel context
+## Step 4 - Draw a parallel context
 ![Draw a parlalel context][3]
 
-## Step 4 - Scale up or down
+## Step 5 - Scale up or down
 
 Scale the order of magnitude either in the parallel context (e.g. ``Context 2``)...
 ![Scale up or down - Either in the parallel context][4]
@@ -23,6 +36,8 @@ Scale the order of magnitude either in the parallel context (e.g. ``Context 2``)
 Similarly, you can scale low.
 ![Scale up or down - scaling low][6]
 
+
+[0]:axis-0.png
 [1]:axis-1.png
 [2]:axis-2-features.png
 [3]:axis-3-parallel.png
