@@ -75,7 +75,7 @@ The most important thing to keep in mind when shifting orders of magnitude is to
 
 Write the name for the higher (or lower) order of magnitude context-instance and write down the features justifying why it belongs to the context and, most especially, what makes it of a higher (or lower) order of magnitude.
 
-Referring to the example above, in the ``Farm Animals`` context, a ``dog`` is of a higher order than a ``cat`` because it is *a leader*, *has knowledge about the farm*, *is favoured by the farm owner*.
+Referring to the example above, in the ``Farm Animals`` context, a ``dog`` is of a higher order than a ``cat`` because it is *a leader*, *has knowledge about the farm*, and *is  the farm owner's best friend*.
 
 You can do this either in the parallel context, (e.g. ``Context-Instance 2``, as seen below).
 
