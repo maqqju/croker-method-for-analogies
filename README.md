@@ -26,5 +26,5 @@ You can do so in 3 easy steps :
 3. Open a new pull request
 
 
-You can also open issues for discussion.
+For those of you who are less accustomed to the world of ``git``, or perhaps are more into asking questions or giving feedback than proposing an improvement on what is already written in this repository, you can also open issues for discussion in the Issues section above.
 
