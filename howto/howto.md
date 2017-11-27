@@ -65,6 +65,8 @@ Finally, feel free to add any features that you did not list down in the subject
 
 **Note:** In the image above the parallel context was drawn *on the left hand side* of the original context. This is completely up to you.
 
+**Note:** You are encouraged to draw as many parallel contexts as you wish in a single sitting using the ``Croker Method``. Feel free to place these left, right as you wish. This is the main reason why it was suggested that you use as much space as you can, so that you are free to experiment and explore.
+
 ## <a name="magnitude"></a>Step 5 - Scale up or down
 
 The final feature in the ``Croker Method`` is to explore different orders of magnitude within the same context. This is represented by going higher or lower on the vertical axis, above the related context-instance.
