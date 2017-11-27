@@ -88,6 +88,8 @@ The examples above show how you can go to a higher order context-instance. Simil
 
 ![Scale up or down - scaling low][6]
 
+**Note:** When writing down features for the new (higher or lower order of magnitude) context-instance, *focus on the relationship between this context-instance and its context*. Then, when ready, take a step back and *look at the whole* ``Croker Method`` space. You will be surprised with the new connections that you can start to make.
+
 
 [0]:axis-0.png
 [1]:axis-1.png
