@@ -2,7 +2,14 @@
 
 ****Important**** before you start please make sure to have read the [Basic Principles](/principles/principles.md).
 
-## Step 1 - Draw the axis
+### Quick Reference
+1. [Step 1 - Draw the axis](#axis)
+2. [Step 2 - Place your starting context-instance in the middle of the axis](#subject)
+3. [Step 3 - Break down the context-instance into features](#features)
+4. [Step 4 - Draw a parallel context](#parallel)
+5. [Step 5 - Scale up or down](#magnitude)
+
+## <a name="axis"></a>Step 1 - Draw the axis
 
 The very first thing you need to do to use the ``Croker Method`` is to draw the axis which will essentially be the space holding your ideas.
 
@@ -14,7 +21,7 @@ The very first thing you need to do to use the ``Croker Method`` is to draw the 
 
 **Note:** Are the arrows necessary in the vertical axis? The arrows are there to mainly remind you the function of the vertical line. Context instances written on top are considered to be of a higher order than those written lower down.
 
-## Step 2 - Place your starting context-instance in the middle of the axis
+## <a name="subject"></a>Step 2 - Place your starting context-instance in the middle of the axis
 
 Whenever using analogies we can safely say that there are, at least, two main *context-instances*:
 
@@ -31,18 +38,18 @@ Write the starting point in the middle of the axis. This will also help you reme
 
 **Note:** In the images within this guide we will see that context-instances will be written in bold and underline, similar to a header within an article. The most important thing is that you adopt a convension which will help you differentiate the name of the context-instace from its features.
 
-## Step 3 - Break down the context-instance into features
+## <a name="features"></a>Step 3 - Break down the context-instance into features
 
 The next thing you need to do is to start breaking your context-instance into *features*. Features are attributes of your context-instance which will be the key elements in your quest of finding an appropriate analogy to your subject. Think of a feature as the key attributes binding your context-instance to its context. These will be different with every context.
 
-For instance, a ``cat`` under the context ``Farm Animals`` can have features like *good hunter*,*works behind the scenes*,*clears unwanted guests*. In another context, say ``Feline Animals``, however, a ``cat`` can have features like *small*,*domestic*,*independent* and so on.
+For instance, a ``cat`` under the context ``Farm Animals`` can have features like *good hunter*, *works behind the scenes*, *clears unwanted guests*. In another context, say ``Feline Animals``, however, a ``cat`` can have features like *small*, *domestic*, *independent* and so on.
 
 
 ![Break down your current context into features][2]
 
 **Note:** A tip from the author: do not limit yourself when writing features. It is easier to clean up extra features than to come up with good ones. Instead, try to beat features with even better ones.
 
-## Step 4 - Draw a parallel context
+## <a name="parallel"></a>Step 4 - Draw a parallel context
 
 Now that you have named your context-instance and justified why and how it pertains to its context, you are ready to start experimenting with analogies (a.k.a. parlallel contexts).
 
@@ -58,15 +65,27 @@ Finally, feel free to add any features that you did not list down in the subject
 
 **Note:** In the image above the parallel context was drawn *on the left hand side* of the original context. This is completely up to you.
 
-## Step 5 - Scale up or down
+## <a name="magnitude"></a>Step 5 - Scale up or down
 
-Scale the order of magnitude either in the parallel context (e.g. ``Context 2``)...
+The final feature in the ``Croker Method`` is to explore different orders of magnitude within the same context. This is represented by going higher or lower on the vertical axis, above the related context-instance.
+
+The most important thing to keep in mind when shifting orders of magnitude is to stick to the conventions for the context-instances in your ``Croker Method`` space. In the case of this guide, *context-instance names* are written in bold and underline while *features* written underneath as bullet points.
+
+Write the name for the higher (or lower) order of magnitude context-instance and write down the features justifying why it belongs to the context and, most especially, what makes it of a higher (or lower) order of magnitude.
+
+Referring to the example above, in the ``Farm Animals`` context, a ``dog`` is of a higher order than a ``cat`` because it is *a leader*, *has knowledge about the farm*, *is favoured by the farm owner*.
+
+You can do this either in the parallel context, (e.g. ``Context-Instance 2``, as seen below).
+
 ![Scale up or down - Either in the parallel context][4]
 
-... or in the original context (e.g. ``Context 1``).
+
+You can also do this in the original context-instance (a.k.a the subject, or ``Context-Instance 1`` in the image below).
+
 ![Scale up or down - Or in the original context][5]
 
-Similarly, you can scale low.
+The examples above show how you can go to a higher order context-instance. Similarly, context-instances can be of a lower order of magnitude, as below.
+
 ![Scale up or down - scaling low][6]
 
 
