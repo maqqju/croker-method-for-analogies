@@ -1,4 +1,4 @@
-# How to use the Croker Method
+# How to use the Crocker Method
 
 ****Important**** before you start please make sure to have read the [Basic Principles](/principles/principles.md).
 
@@ -11,9 +11,9 @@
 
 ## <a name="axis"></a>Step 1 - Draw the axis
 
-The very first thing you need to do to use the ``Croker Method`` is to draw the axis which will essentially be the space holding your ideas.
+The very first thing you need to do to use the ``Crocker Method`` is to draw the axis which will essentially be the space holding your ideas.
 
-1. **Find a clear space** where you can jolt down words and ideas. Make sure you have plenty of place as in the ``Croker Method`` ideas can run like wildfire.
+1. **Find a clear space** where you can jolt down words and ideas. Make sure you have plenty of place as in the ``Crocker Method`` ideas can run like wildfire.
 2. **Draw a vertical line** with arrows at both tips. This is the line which will define *orders of magnitude* for contexts.
 3. **Draw a horizontal line** this time without any arrows. Make it nice and wide, allowing you to experiment with as many analogies as you want.
 
@@ -28,7 +28,7 @@ Whenever using analogies we can safely say that there are, at least, two main *c
   * The **subject** which we want to explain
   * The **analogy** which we're using the explain the subject.
 
-Despite the fact that both the subject and the analogy are called *context-instances* in the ``Croker Method``, *the subject* is the *starting point* of the exercise. This holds for both cases discussed in [Usages](/usages/usages.md).
+Despite the fact that both the subject and the analogy are called *context-instances* in the ``Crocker Method``, *the subject* is the *starting point* of the exercise. This holds for both cases discussed in [Usages](/usages/usages.md).
 
 As a starting point, therefore, *we place the subject in the middle* of the axis.
 
@@ -61,17 +61,17 @@ Finally, feel free to add any features that you did not list down in the subject
 
 ![Draw a parallel context][3]
 
-**Note:** In the image above the parallel context was drawn as a dotted line. It is purely up to you how to represent it. Likewise, note that no arrows have been drawn this time. Remember that the arrows were initially drawn in the original context to remind you of the up/down function in the ``Croker Method``. A pair is more than enough :). 
+**Note:** In the image above the parallel context was drawn as a dotted line. It is purely up to you how to represent it. Likewise, note that no arrows have been drawn this time. Remember that the arrows were initially drawn in the original context to remind you of the up/down function in the ``Crocker Method``. A pair is more than enough :).
 
 **Note:** In the image above the parallel context was drawn *on the left hand side* of the original context. This is completely up to you.
 
-**Note:** You are encouraged to draw as many parallel contexts as you wish in a single sitting using the ``Croker Method``. Feel free to place these left, right as you wish. This is the main reason why it was suggested that you use as much space as you can, so that you are free to experiment and explore.
+**Note:** You are encouraged to draw as many parallel contexts as you wish in a single sitting using the ``Crocker Method``. Feel free to place these left, right as you wish. This is the main reason why it was suggested that you use as much space as you can, so that you are free to experiment and explore.
 
 ## <a name="magnitude"></a>Step 5 - Scale up or down
 
-The final feature in the ``Croker Method`` is to explore different orders of magnitude within the same context. This is represented by going higher or lower on the vertical axis, above the related context-instance.
+The final feature in the ``Crocker Method`` is to explore different orders of magnitude within the same context. This is represented by going higher or lower on the vertical axis, above the related context-instance.
 
-The most important thing to keep in mind when shifting orders of magnitude is to stick to the conventions for the context-instances in your ``Croker Method`` space. In the case of this guide, *context-instance names* are written in bold and underline while *features* written underneath as bullet points.
+The most important thing to keep in mind when shifting orders of magnitude is to stick to the conventions for the context-instances in your ``Crocker Method`` space. In the case of this guide, *context-instance names* are written in bold and underline while *features* written underneath as bullet points.
 
 Write the name for the higher (or lower) order of magnitude context-instance and write down the features justifying why it belongs to the context and, most especially, what makes it of a higher (or lower) order of magnitude.
 
@@ -90,7 +90,7 @@ The examples above show how you can go to a higher order context-instance. Simil
 
 ![Scale up or down - scaling low][6]
 
-**Note:** When writing down features for the new (higher or lower order of magnitude) context-instance, *focus on the relationship between this context-instance and its context*. Then, when ready, take a step back and *look at the whole* ``Croker Method`` space. You will be surprised with the new connections that you can start to make.
+**Note:** When writing down features for the new (higher or lower order of magnitude) context-instance, *focus on the relationship between this context-instance and its context*. Then, when ready, take a step back and *look at the whole* ``Crocker Method`` space. You will be surprised with the new connections that you can start to make.
 
 
 [0]:axis-0.png
