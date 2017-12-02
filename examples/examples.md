@@ -27,6 +27,6 @@ How can we enhance the annual hackaton? Let us apply the steps explained in the 
   * **Simplifying Complexity**
   * **Innovating Products**
 
-[1]:hackaton-1.png
-[2]:hackaton-2.png
-[3]:hackaton-3.png
+[1]:examples-hackaton-1.png
+[2]:examples-hackaton-2.png
+[3]:examples-hackaton-3.png
