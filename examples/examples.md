@@ -4,13 +4,13 @@ In this section you will find a number of examples of how the ``Croker Method`` 
 
 ## Example 1 : Innovating an Event
 
-The ``Croker Method`` is particularly useful when you need to innovate something which is organized frequently. Consider, for example, a software company that would like to add some new elements to its annual hackaton. Such events tend to become repetitive since many times the organizers would find it difficult to reinvent every year. Although it is true that online there are myriad resources, sometimes you just need to get the gist of the direction you want to take.
+The ``Croker Method`` is particularly useful when you need to innovate something which is organized frequently. Consider, for example, a software company that would like to add some new elements to its annual hackathon. Such events tend to become repetitive since many times the organizers would find it difficult to reinvent every year. Although it is true that online there are myriad resources, sometimes you just need to get the gist of the direction you want to take.
 
-How can we enhance the annual hackaton? Let us apply the steps explained in the [How To section](/howto/howto.md).
+How can we enhance the annual hackathon? Let us apply the steps explained in the [How To section](/howto/howto.md).
 
 **Step 1,2,3 - Draw the axis, put the context-instance in the middle, and break it down into features**
 
-The first things we need to do is to start breaking down the subject into its important features. Different people can apply different methodologies to find these features. In essence, however, we need to ask the following question: *What are those features that define the annual hackaton?*
+The first things we need to do is to start breaking down the subject into its important features. Different people can apply different methodologies to find these features. In essence, however, we need to ask the following question: *What are those features that define the annual hackathon?*
 
 For the sake of this example we've listed the following features:
 
@@ -27,7 +27,7 @@ We will then use these features to identify a potential scenario analogous to th
 
 **Step 4 - Find a parallel context**
 
-Next thing to do is to find a paralle context, a.k.a. an analogy. There are many paths we can take from the features identified earlier. Using the features ``Competition``, ``Teams``, ``Teamwork``, and ``Short period of time`` we can match the current context of a ``Hackaton`` to that of a ``Football Tournament``, as you can see below.
+Next thing to do is to find a paralle context, a.k.a. an analogy. There are many paths we can take from the features identified earlier. Using the features ``Competition``, ``Teams``, ``Teamwork``, and ``Short period of time`` we can match the current context of a ``Hackathon`` to that of a ``Football Tournament``, as you can see below.
 
  ![Step 4 - Find a parallel context][2]
 
@@ -54,13 +54,13 @@ As you can see in the image above we can start identifying some good features, m
 
 **What will follow?**
 
-Now, let's take the features we came up with on the scaled up analogy and bring them to our current context-instance. The following is maybe how the exercise on innovating the annual hackaton be concluded:
+Now, let's take the features we came up with on the scaled up analogy and bring them to our current context-instance. The following is maybe how the exercise on innovating the annual hackathon be concluded:
 
   * Prize money - we already do that
   * International - what if we can invite some of our foreign partners to participate?
   * K/O Phase - this is cool, we can make a build up with different topics, and every round will eliminate some teams. We can also put milestones at every 3 hours, and those who don't reach them will be eliminated.
-  * Live coverage - we can broadcast hot instances of the hackaton using Facebook live! Even more so, we can actually encourage the teams to open up to the public the "locker-room talk" while they are putting their genious at work!
-  * Commentary - this is difficult in the hackaton context.
+  * Live coverage - we can broadcast hot instances of the hackathon using Facebook live! Even more so, we can actually encourage the teams to open up to the public the "locker-room talk" while they are putting their genious at work!
+  * Commentary - this is difficult in the hackathon context.
   * Betting - no.
   * Collectibles - we can print some memorabilias for the event: keychains, pendrives, t-shirts, hats - yes this is absolutely cool!
   * Live audience - not really what engineers would like while they are working.
@@ -73,6 +73,6 @@ Now, let's take the features we came up with on the scaled up analogy and bring 
   * **Simplifying Complexity** - analogies will help you re-think what you have already done, and many times the more complex ideas and concepts get the mare reluctant we are to refine an implementation.
   * **Innovating Products** - similar to innovaing events, analogies can be very effective tools in the hands of Product Managers.
 
-[1]:examples-hackaton-1.png
-[2]:examples-hackaton-2.png
-[3]:examples-hackaton-3.png
+[1]:examples-hackathon-1.png
+[2]:examples-hackathon-2.png
+[3]:examples-hackathon-3.png
