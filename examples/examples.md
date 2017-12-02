@@ -69,9 +69,9 @@ Now, let's take the features we came up with on the scaled up analogy and bring 
 
 ## Other applications of the ``Croker Method``
 
-  * **Explaining a Complex Engine**
-  * **Simplifying Complexity**
-  * **Innovating Products**
+  * **Explaining a Complex Engine** - particularly useful to generate induction material for complex engines in engineering setups. Many times newcomers will struggle most with knowledge intrinsic to the company, and at the same time those who have been working for the same company for a considerable amount of time will find it hard to explain "the obvious". Analogies can be an extremely effective tool to explain the high-level concepts. 
+  * **Simplifying Complexity** - analogies will help you re-think what you have already done, and many times the more complex ideas and concepts get the mare reluctant we are to refine an implementation.
+  * **Innovating Products** - similar to innovaing events, analogies can be very effective tools in the hands of Product Managers.
 
 [1]:examples-hackaton-1.png
 [2]:examples-hackaton-2.png
