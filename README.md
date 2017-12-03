@@ -9,9 +9,8 @@ Analogies are a very useful tool to facilitate knowledge transfer, but coming up
 ## Table of Contents
 1. [Motivation](/motivation/motivation.md)
 2. [Basic Principles](/principles/principles.md)
-3. [Usages](/usages/usages.md)
-4. [How to use it](/howto/howto.md)
-5. [Examples](/examples/examples.md)
+3. [How to use it](/howto/howto.md)
+4. [Examples](/examples/examples.md)
 
 ## Want to contribute?
 You can do so in 3 easy steps :
