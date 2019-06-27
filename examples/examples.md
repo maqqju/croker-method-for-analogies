@@ -71,9 +71,9 @@ Now, let's take the features we came up with on the scaled up analogy and bring 
 
 The ``Croker Method`` is aimed at harnessing the power of analogies. The following are some areas in which analogies can be helpful.
 
-  * **Explaining a Complex Knowledge Items** - particularly useful to generate induction material for complex engines in engineering setups. Many times newcomers will struggle most with knowledge intrinsic to the company, and at the same time those who have been working for the same company for a considerable amount of time will find it hard to explain "the obvious". Analogies can be an extremely effective tool to explain the high-level concepts.
-  * **Education** - analogies map complexity to a domain which one could better relate to. This is particularly handy when trying to communicate new concepts to young students.
-  * **Revising Complicatedness** - analogies will help you re-think what you have already done, and many times the more complex ideas and concepts get the mare reluctant we are to refine an implementation. By mapping concepts you may be in a better position to question implementation decisions.
+  * **Explaining a Complex Knowledge Items** - particularly useful to generate induction material for complex engines in engineering setups. Many times newcomers will struggle most with knowledge intrinsic to the company (possibly long-serving) employees. Making it even worse, those employees who are expected to share their intrinsic knowledge will find it very hard to explain "the obvious". Analogies can be an extremely effective tool to explain the high-level concepts.
+  * **Education** - analogies map complexity to a domain which one could better relate to. This is particularly handy when trying to communicate new concepts to students.
+  * **Revising Complicatedness** - analogies will help you re-think what you have already done, and many times the more complex the ideas and concepts get the more reluctant we are to refine their implementation. By mapping concepts as suggested by this method you may be in a better position to question implementation decisions.
   * **Innovating Products** - similar to innovating events, analogies can be very effective tools in the hands of Product Managers and Intrapreneurs who would want to find some hidden value in their products, or would want to add that something extra from what their competitors would be offering.
 
 [1]:examples-hackathon-1.png
